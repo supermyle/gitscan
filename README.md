@@ -3,7 +3,7 @@ The program will not run without installing the requests, and beautifulsoup4 lib
 Assuming you have Python3 and pip installed both libraries can be installed by running the command **./install.sh** from the gitscan current directory
 To start gitscan, open terminal and run the command **python3 gitscan.py** from the gitscan current directory
 
---Program won't run without intalling libraries below (Covered by install.sh)--
+Program won't run without intalling libraries below (Covered by install.sh)
 pip3 install requests
 pip3 install beautifulsoup4
 =======
